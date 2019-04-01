@@ -11,6 +11,8 @@ class ComposerStaticInitc22529f0442257036eb956e8a11523cd
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         '72579e7bd17821bb1321b87411366eae' => __DIR__ . '/..' . '/illuminate/support/helpers.php',
+        '5d80ba682afba25d348d62676196765b' => __DIR__ . '/../..' . '/src/functions.php',
+        'cfc7e37404d4bbaf4e117980f32315f2' => __DIR__ . '/../..' . '/src/functions_strict.php',
     );
 
     public static $prefixLengthsPsr4 = array (
