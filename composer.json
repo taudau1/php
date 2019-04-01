@@ -6,8 +6,10 @@
         "phpunit/phpunit": "8.0.5"
     },
     "autoload": {
-        "classmap": [
-            "C:\\Users\\Savage\\Desktop\\Stuff\\nfq\\nfq3paskaita\\src\\functions.php"
-        ]
-    }
+        "files": [
+            "src/functions.php",
+            "src/functions_strict.php"
+        ]   
+
+        }
 }
